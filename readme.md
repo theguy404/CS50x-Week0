@@ -1,4 +1,4 @@
-## Scratch
+# Scratch
 It’s time to choose your own adventure! Your assignment, quite simply, is to implement in Scratch any project of your choice, be it an interactive story, game, animation, or anything else, subject only to the following requirements:
 
 Your project must have at least two sprites, at least one of which must resemble something other than a cat.
@@ -21,18 +21,18 @@ Alright, off you go. Make us proud!
 
 Once finished with your project, select File > Save now one last time. Then select File > Save to your computer and keep that file so that you can submit it.
 
-## Hello, World
+# Hello, World
 Suffice it to say it’s a bit harder to meet classmates when taking a course online. But, thanks to technology, everyone can at least say hello!
 
 If you have a phone (or digital camera) and would like to say hello to classmates, record a 1- to 2-minute video of yourself saying hello, perhaps stating where in the world you are, why you’re taking CS50x, and something interesting about you! Try to begin your video by saying “hello, world” and end it with “my name is …., and this is CS50.” But, ultimately, it’s totally up to you.
 
 If you do record a video, upload it to YouTube (unless blocked in your country, in which case you’re welcome to upload it elsewhere) so that you can provide us with its URL when you submit!
 
-## How to Submit
-# Step 1 of 2
+# How to Submit
+## Step 1 of 2
 Submit this form.
 
-# Step 2 of 2
+## Step 2 of 2
 This step assumes that you’ve downloaded your Scratch project as a file whose name ends in .sb3. And this step also assumes that you’ve signed up for a GitHub account, per the above form.
 
 Visit this link, log in with your GitHub account, and click Authorize cs50.
