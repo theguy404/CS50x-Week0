@@ -39,6 +39,7 @@ This step assumes that you’ve downloaded your Scratch project as a file whose 
 2. Check the box indicating that you’d like to grant course staff access to your submissions, and click Join course.
 3. Go to https://submit.cs50.io/upload/cs50/problems/2020/x/scratch.
 4. Click “Choose File” and choose your .sb3 file. Click Submit.
+
 That’s it! Once your submission uploads, you should be redirected to your submission page. Click the submission link and then the check50 link to see which requirements your project met. You are welcome to resubmit as many times as you’d like (before the deadline)!
 
 To view your current progress in the course, visit the course gradebook at cs50.me/cs50x!
